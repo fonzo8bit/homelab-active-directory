@@ -13,4 +13,4 @@ VMware Workstation Pro 17.0,
 Windows Server 2022, 
 Active Directory Domain Services 
 
-Throughout this process I developed a much better understading of how enterprise user managment works at the infrastruture level. Configuring GPO's showed me how IT departments enforce security polices across an entire organization from a single point of control.
+Throughout this process, I developed a much better understading of how enterprise user managment works at the infrastruture level. Configuring GPO's showed me how IT departments enforce security polices across an entire organization from a single point of control.
